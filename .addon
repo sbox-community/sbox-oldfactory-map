@@ -1,0 +1,18 @@
+{
+  "Title": "Polygon",
+  "Type": "map",
+  "Org": "local",
+  "Ident": "polygonmap",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": false,
+  "CodePath": null,
+  "RootNamespace": null,
+  "Metadata": {
+    "GameSupport": [
+      ""
+    ]
+  }
+}
