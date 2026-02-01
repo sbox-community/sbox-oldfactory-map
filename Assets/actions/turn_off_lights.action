@@ -1,0 +1,38 @@
+{
+  "Graph": {
+    "__version": 9,
+    "__guid": "f6df3e86-b151-4bd9-ba72-586febc193b9",
+    "__changeId": 3,
+    "UserData": {
+      "Title": "Turn Off Lights",
+      "ReferencedComponentTypes": []
+    },
+    "Parameters": {
+      "DefaultSignals": true
+    },
+    "Variables": [],
+    "Nodes": [
+      {
+        "Id": 0,
+        "Type": "input"
+      },
+      {
+        "Id": 1,
+        "Type": "nop",
+        "UserData": {
+          "Position": "288,36"
+        }
+      }
+    ],
+    "Links": [
+      {
+        "SrcId": 0,
+        "SrcName": "_signal",
+        "DstId": 1,
+        "DstName": "in"
+      }
+    ]
+  },
+  "__references": [],
+  "__version": 0
+}
